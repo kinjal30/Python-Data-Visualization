@@ -32,9 +32,7 @@ Project Building
 How to Run
 
     Clone this repository.
-    Install dependencies:
 
-pip install -r requirements.txt
 
 Run the Jupyter notebook for analysis and visualization:
 
