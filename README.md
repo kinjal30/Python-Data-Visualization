@@ -19,8 +19,7 @@ Use Cases
     Geospatial Analysis: Visualize performance metrics across the U.S.
 
 Project Architecture
-
-                ![d1d4d413-f32d-4595-8553-900cd4584c91](https://github.com/user-attachments/assets/181943fa-858a-45d2-83e4-ec9634d73e5d)
+![image](https://github.com/user-attachments/assets/6c255023-e16c-4942-868e-f3dbc05d34ec)
 
 
 How to Run
