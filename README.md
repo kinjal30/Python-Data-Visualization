@@ -1,6 +1,6 @@
 # Python-Data-Visualization
 Techniques Used: Dimensionality Reduction, Geospatial Mapping, Preprocessing Pipeline.
-
+https://nbviewer.org/github/kinjal30/Python-Data-Visualization/blob/main/DataViz_Project.ipynb
 College Scorecard Dataset Project
 Overview
 
