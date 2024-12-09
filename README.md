@@ -1,5 +1,7 @@
 # Python-Data-Visualization
-https://docs.google.com/presentation/d/1G-VPMlk76jdcX9YR4CSDI5KVv6gOvaMxvHlGJ50Y3C8/edit?usp=sharing
+
+Link to Presentation: https://docs.google.com/presentation/d/1G-VPMlk76jdcX9YR4CSDI5KVv6gOvaMxvHlGJ50Y3C8/edit?usp=sharing
+
 Techniques Used: Dimensionality Reduction, Geospatial Mapping, Preprocessing Pipeline.
 College Scorecard Dataset Project
 Overview
