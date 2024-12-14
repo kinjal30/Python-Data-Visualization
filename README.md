@@ -23,9 +23,22 @@ Use Cases
 Project Result
 
 ![image](https://github.com/user-attachments/assets/012cc90d-f1ea-49ea-978a-d1b1e864cde8)
+With this 3D t-SNE visualization we can explore how U.S. colleges compare based on multiple factors, such as graduation rates, tuition, and enrollment. Each dot represents a college, color-coded by its graduation rate group (e.g., High, Medium, or Low), allowing users to easily identify performance clusters. 
+
+For example, the highlighted point shows the University of Houston-Downtown in the "Medium" group, with specific t-SNE dimensions and state details provided on hover which simplifies complex data, helping students, researchers, and policymakers spot patterns, compare institutions, and gain insights into how colleges group together based on shared characteristics.
+
+The selected features for dimensionality reduction are:
+
+    Average Net Price Tuition
+    6-Yr Grad Rate
+    Endowment in 2020
+    Percent of Pell-Grant
+    Tuition Out-of-State
+    Undergrad Enrollment
+
 
 ![image](https://github.com/user-attachments/assets/6c255023-e16c-4942-868e-f3dbc05d34ec)
-
+This interactive map offers an engaging way to explore colleges across the U.S., showcasing their geographic distribution and key details like graduation rates and locations. Each marker represents a college and reveals useful information, such as its name, 4-Year and 6-Year graduation rates, and city, when clicked. When we zoom out we can see the clusters along with the numbers. So the higher the number the more colleges are inn that region. By clustering markers, we can see  the map helps us to spot areas with many colleges or regions where they’re sparse. So it might be a useful tool for students looking for nearby options, policymakers working to improve access to education, and researchers studying how location influences college performance. The ability to zoom, explore clusters, and interact with specific institutions makes the map both informative and easy to use.
 Project Building
 
 ![d1d4d413-f32d-4595-8553-900cd4584c91](https://github.com/user-attachments/assets/03c503ab-5c69-4244-a2c2-e32f161203f7)
